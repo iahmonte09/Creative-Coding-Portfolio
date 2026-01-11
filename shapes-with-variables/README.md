@@ -4,7 +4,7 @@
 (https://iahmonte09.github.io/Creative-Coding-Portfolio/shapes-with-variables/)
 
 ## Screenshot
----
+![Shapes Screenshot](../images/shapes.png)
 
 ## Description and Reflection
 
