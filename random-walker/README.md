@@ -1,7 +1,7 @@
 # Random walker
 
 ## Live Sketch
-[View here]([https://iahmonte09.github.io/Creative-Coding-Portfolio/random-walker/])
+[View the live version here](https://iahmonte09.github.io/Creative-Coding-Portfolio/random-walker/)
 
 ## Screenshot
 tba
