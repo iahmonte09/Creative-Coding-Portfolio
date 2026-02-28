@@ -23,5 +23,6 @@ The experiments will be presented in the form of individual sketches. Each sketc
 7. [Random walker](./random-walker/)
 8. [Rotate Coordinate System](./rotate-coordinate-system/)
 9. [Shake Bounce Ball](./shake-bounce-ball/)
+10. [Load Fonts and draw text](./load-fonts-and-draw-text/)
 
 Each folder contains the source code, a live sketch link, screenshots, and a written reflection describing the creative and technical decisions behind the work.
