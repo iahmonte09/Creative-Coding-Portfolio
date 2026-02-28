@@ -22,5 +22,6 @@ The experiments will be presented in the form of individual sketches. Each sketc
 6. [Remix a Tutorial (Showcase Piece)](./remix-tutorial/)
 7. [Random walker](./random-walker/)
 8. [Rotate Coordinate System](./rotate-coordinate-system/)
+9. [Shake Bounce Ball](./shake-bounce-ball/)
 
 Each folder contains the source code, a live sketch link, screenshots, and a written reflection describing the creative and technical decisions behind the work.
