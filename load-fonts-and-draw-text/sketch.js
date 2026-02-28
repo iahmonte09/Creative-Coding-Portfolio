@@ -1,7 +1,7 @@
 let myFont;
 
 function preload() {
-  myFont = loadFont('Jangkuy.otf');
+  myFont = loadFont('JANGKUY-BlackExpanded.otf');
 }
 
 function setup() {
