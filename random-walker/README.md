@@ -4,7 +4,7 @@
 [View the live version here](https://iahmonte09.github.io/Creative-Coding-Portfolio/random-walker/)
 
 ## Screenshot
-![Random Walker](../images/random-walker.png)
+![Random Walker](../images/randomwalker.png)
 
 ## Description and reflection
 
